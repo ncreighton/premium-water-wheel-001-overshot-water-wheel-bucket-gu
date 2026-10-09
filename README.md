@@ -1,0 +1,2 @@
+# premium-water-wheel-001-overshot-water-wheel-bucket-gu
+Building or optimizing an overshot water wheel? Without a structured tracking system, you'll lose critical data on bucket performance, maintenance schedules, and efficiency metrics—costing you time and energy output.  The Overshot Water Wheel Bucket Guide is a Notion template designed specifically for water wheel enthusiasts, engineers, and DIY bui
